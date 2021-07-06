@@ -69,7 +69,7 @@ $db = $config->getConnection();
                                 <div class="sb-nav-link-icon"><i class="fas fa-book"></i></div>
                                 Kriteria
                             </a>
-                            <a class="nav-link" href="tables.html">
+                            <a class="nav-link" href="../admin/alternatif.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-book"></i></div>
                                 Alternatif
                             </a>
@@ -80,8 +80,8 @@ $db = $config->getConnection();
                             </a>
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
-                                    <a class="nav-link" href="layout-static.html">Data Rangking</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Perangkingan</a>
+                                    <a class="nav-link" href="rangking.php">Data Rangking</a>
+                                    <a class="nav-link" href="normalisasi.php">Perangkingan</a>
                                     <a class="nav-link" href="layout-sidenav-light.html">Tambah Data</a>
                                 </nav>
                             </div>
